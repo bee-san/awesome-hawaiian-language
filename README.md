@@ -40,7 +40,14 @@ Around 10 years ago the content was created by native speakers. Since then Duoli
 * Got rid of the human voices and used AI in their place
 * Got rid of culturual lessons in the course
 
-### Mango languages
+### ❤️ Mango languages
+
+The best out there in terms of apps:
+* Flashcard support
+* Grammar breakdowns
+* Culture lessons
+
+It does use AI for somethings, but it is better than Duolingo and may be free on your library card.
 
 ### Anki Decks
 
@@ -52,7 +59,7 @@ Around 10 years ago the content was created by native speakers. Since then Duoli
 
 ### Browser Extension
 
-#### Yomitan 🐝
+#### Yomitan 🐝❤️
 
 Yomitan is a pop up dictionary that supports flashcards and native audio pronounication.
 
