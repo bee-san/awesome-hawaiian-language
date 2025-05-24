@@ -1,7 +1,8 @@
 # awesome-hawaiian-language
 Aloha! This is just to keep track of language resources :)
 
-Items with 🐝 emoji are resources I created or contributed to.
+* 🐝 emoji are resources I created or contributed to.
+* ❤️ means I love this resource
 
 # Call to action
 
@@ -26,8 +27,13 @@ https://github.com/sponsors/bee-san
 I do not have a job right now, so I cannot afford to pay for things out of pocket. :(
 
 ## Apps
-* Duolingo
-* Mango languages
+### Duolingo
+
+[Duolingo](https://www.duolingo.com/) is the original app for Hawaiian.
+
+However the app has become [AI first](https://fortune.com/2025/05/20/duolingo-ai-teacher-schools-childcare/) and uses AI for almost everything, meaning that a large portion of the lessons will feature AI generated content.
+
+### Mango languages
 
 ### Anki Decks
 
@@ -39,6 +45,8 @@ I do not have a job right now, so I cannot afford to pay for things out of pocke
 
 ### Browser Extension
 * Yomitan 🐝
+
+# Audio sources
 
 ## Media
 
