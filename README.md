@@ -9,3 +9,9 @@ Aloha! This is just to keep track of language resources :)
 
 ### Browser Extension
 * Yomitan
+
+## Media
+
+### Subtitles
+
+* Oleoflix https://oleloflix.com/#/
