@@ -27,6 +27,12 @@ I do not have a job right now, so I cannot afford to pay for things out of pocke
 * Duolingo
 * Mango languages
 
+### Anki Decks
+
+* https://ankiweb.net/shared/info/1190758092
+* https://ankiweb.net/shared/info/2085481698
+
+
 ## Dictionaries
 
 ### Browser Extension
