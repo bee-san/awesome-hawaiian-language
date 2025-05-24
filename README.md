@@ -1,6 +1,8 @@
 # awesome-hawaiian-language
 Aloha! This is just to keep track of language resources :)
 
+Items with 🐝 emoji are resources I created or contributed to.
+
 # Call to action
 
 **I need audio and timed soft subtitles of the Hawaiian language**
@@ -36,7 +38,7 @@ I do not have a job right now, so I cannot afford to pay for things out of pocke
 ## Dictionaries
 
 ### Browser Extension
-* Yomitan
+* Yomitan 🐝
 
 ## Media
 
