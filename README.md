@@ -72,3 +72,13 @@ Read my [blog post to find out more](skerritt.blog/yomitan-for-hawaiian/)
 ### Subtitles
 
 * Oleoflix https://oleloflix.com/#/
+
+# Nerdy things
+## Speech to text
+
+There is currently no good speech to text model for Hawaiian. Whisper TTS has too high of an error rate.
+
+This is likely due to the lack of Hawaiian audio with timed subtitles.
+
+## Text to speech
+There is currently no good TTS model because of the above issue.
