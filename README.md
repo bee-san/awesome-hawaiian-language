@@ -51,7 +51,12 @@ Around 10 years ago the content was created by native speakers. Since then Duoli
 ## Dictionaries
 
 ### Browser Extension
-* Yomitan 🐝
+
+#### Yomitan 🐝
+
+Yomitan is a pop up dictionary that supports flashcards and native audio pronounication.
+
+Read my [blog post to find out more](skerritt.blog/yomitan-for-hawaiian/)
 
 # Audio sources
 
