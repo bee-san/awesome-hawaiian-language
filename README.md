@@ -33,6 +33,13 @@ I do not have a job right now, so I cannot afford to pay for things out of pocke
 
 However the app has become [AI first](https://fortune.com/2025/05/20/duolingo-ai-teacher-schools-childcare/) and uses AI for almost everything, meaning that a large portion of the lessons will feature AI generated content.
 
+Around 10 years ago the content was created by native speakers. Since then Duolingo has:
+* Removed all grammar exercises
+* Added more words using AI
+* Translated the course into other languages using AI
+* Got rid of the human voices and used AI in their place
+* Got rid of culturual lessons in the course
+
 ### Mango languages
 
 ### Anki Decks
