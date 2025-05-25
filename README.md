@@ -91,6 +91,11 @@ Read my [blog post to find out more](skerritt.blog/yomitan-for-hawaiian/)
 
 # Books
 
+# Dictionaries
+## Books
+## Web apps
+## Computer parsable
+
 # Nerdy things
 ## Speech to text
 
