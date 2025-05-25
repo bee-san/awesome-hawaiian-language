@@ -40,6 +40,10 @@ Around 10 years ago the content was created by native speakers. Since then Duoli
 * Got rid of the human voices and used AI in their place
 * Got rid of culturual lessons in the course
 
+If you plan to use Duolingo, supplement it with these:
+* ❤️ [Hawaiian Goodness' tips and grammar for Duolingo](https://useduforce.wixsite.com/hawaiiangoodness/duolingo-guides)
+* [Duolingo Fandom page on Hawaiian](https://duolingo.fandom.com/wiki/Hawaiian_Skill:Intro)
+
 ### ❤️ Mango languages
 
 The best out there in terms of apps:
@@ -69,9 +73,27 @@ Read my [blog post to find out more](skerritt.blog/yomitan-for-hawaiian/)
 
 ## Media
 
+## YouTube channels
+
+* ❤️ [Hawaiian Goodness](https://www.youtube.com/@hawaiiangoodness/playlists), a YouTube archive of learning matieral. Check out their website for a [comprehensive guide](https://useduforce.wixsite.com/hawaiiangoodness/kul%C4%81iwi-series-cut)
+* [Speak Hawaiian, channel no longer posts](https://www.youtube.com/@speakhawaiian7323)
+
 ### Subtitles
 
-* Oleoflix https://oleloflix.com/#/
+* Oleoflix - Community subs for Netflix. The extension is currently dead. https://oleloflix.com/#/
+
+### Media with timed subtitles
+
+* [Kulāiwi Vignettes](https://www.youtube.com/playlist?list=PLPj7sobTcK3Uv_exxYUjXVFhBQx7U8mqA)
+
+# Hawaiian Sign Language
+* [Hawaiian Sign Language playlist](https://www.youtube.com/playlist?list=PLPj7sobTcK3WVbNuz80cENEZs0qBMcFYO)
+
+# Communities
+
+* ❤️ [Subreddit Olelo Hawaii](https://www.reddit.com/r/olelohawaii/)
+* [Hawaiian Goodness' Discord](https://useduforce.wixsite.com/hawaiiangoodness/discord)
+* [Duolingo Hawaiian Forums Archive](https://duolingo.hobune.stream/topic/960/1)
 
 # Nerdy things
 ## Speech to text
