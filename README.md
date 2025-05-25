@@ -65,10 +65,11 @@ Read my [blog post to find out more](skerritt.blog/yomitan-for-hawaiian/)
 
 ## Media
 
-## YouTube channels
+## Video channels
 
 * ❤️ [Hawaiian Goodness](https://www.youtube.com/@hawaiiangoodness/playlists), a YouTube archive of learning matieral. Check out their website for a [comprehensive guide](https://useduforce.wixsite.com/hawaiiangoodness/kul%C4%81iwi-series-cut)
 * [Speak Hawaiian, channel no longer posts](https://www.youtube.com/@speakhawaiian7323)
+* [OiwiTV](https://kanaeokana.net/olelo)
 
 ### Subtitles
 
@@ -80,12 +81,15 @@ Read my [blog post to find out more](skerritt.blog/yomitan-for-hawaiian/)
 
 # Hawaiian Sign Language
 * [Hawaiian Sign Language playlist](https://www.youtube.com/playlist?list=PLPj7sobTcK3WVbNuz80cENEZs0qBMcFYO)
+* [Hawaiian Sign Language Wikipedia Page](https://en.wikipedia.org/wiki/Hawai%CA%BBi_Sign_Language)
 
 # Communities
 
 * ❤️ [Subreddit Olelo Hawaii](https://www.reddit.com/r/olelohawaii/)
 * [Hawaiian Goodness' Discord](https://useduforce.wixsite.com/hawaiiangoodness/discord)
 * [Duolingo Hawaiian Forums Archive](https://duolingo.hobune.stream/topic/960/1)
+
+# Books
 
 # Nerdy things
 ## Speech to text
