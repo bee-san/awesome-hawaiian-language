@@ -6,7 +6,7 @@ Aloha! This is just to keep track of language resources :)
 
 # Call to action
 
-I need audio and timed soft subtitles of the Hawaiian language.
+🚨 I need audio and timed soft subtitles of the Hawaiian language 🚨
 
 Preferably video, but just audio is fine too.
 
