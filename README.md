@@ -56,7 +56,7 @@ Fundamentally you want to learn the language, time spent bickering over what app
 * 🐝 [Hawaiian all words HAW -> ENG no frequency sorting](https://ankiweb.net/shared/info/263193257?cb=1748222271449)
 * [Spoken Hawaiian Samuel H. Elbert, ʻŌlelo Hawaiʻi Vocabulary ](https://ankiweb.net/shared/info/1190758092)
 * [Duolingo Hawaiian/English](https://ankiweb.net/shared/info/2085481698)
-
+* [Learn Hawaiian with Anki Audio Included](https://github.com/ThomasLeigh/HawaiianAnki)
 
 ## Dictionaries
 
