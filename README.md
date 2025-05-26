@@ -35,6 +35,7 @@ Around 10 years ago the content was created by native speakers. Since then Duoli
 
 If you plan to use Duolingo, supplement it with these:
 * ❤️ [Hawaiian Goodness' tips and grammar for Duolingo](https://useduforce.wixsite.com/hawaiiangoodness/duolingo-guides)
+* ❤️ [Duolingo Hawaiian/English Flashcard Deck](https://ankiweb.net/shared/info/2085481698)
 * [Duolingo Fandom page on Hawaiian](https://duolingo.fandom.com/wiki/Hawaiian_Skill:Intro)
 
 ### ❤️ Mango languages
@@ -45,6 +46,10 @@ The best out there in terms of apps:
 * Culture lessons
 
 It does use AI for somethings, but it is better than Duolingo and may be free on your library card.
+
+However, note the community has built a lot on top of the Duolingo Hawaiian course to make it good. I personally use Mango, but you can use Duolingo.
+
+Fundamentally you want to learn the language, time spent bickering over what app to use is spent wasted not learning the language.
 
 ### Anki Decks
 
@@ -60,6 +65,8 @@ It does use AI for somethings, but it is better than Duolingo and may be free on
 #### Yomitan 🐝❤️
 
 Yomitan is a pop up dictionary that supports flashcards and native audio pronounication.
+
+This is the bread and butter of the Japanese language learning community and is a big part of why learning Japnese is so simple (hard, but simple).
 
 Read my [blog post to find out more](skerritt.blog/yomitan-for-hawaiian/)
 
