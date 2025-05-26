@@ -47,6 +47,7 @@ It does use AI for somethings, but it is better than Duolingo and may be free on
 
 ### Anki Decks
 
+* 🐝 [Hawaiian all words HAW -> ENG no frequency sorting](https://ankiweb.net/shared/info/263193257?cb=1748222271449)
 * https://ankiweb.net/shared/info/1190758092
 * https://ankiweb.net/shared/info/2085481698
 
