@@ -18,6 +18,7 @@ With this I can:
 
 Email me at hawaii@skerritt.blog if you can help.
 
+# First Steps
 ## Apps
 ### Duolingo
 
@@ -48,8 +49,8 @@ It does use AI for somethings, but it is better than Duolingo and may be free on
 ### Anki Decks
 
 * 🐝 [Hawaiian all words HAW -> ENG no frequency sorting](https://ankiweb.net/shared/info/263193257?cb=1748222271449)
-* https://ankiweb.net/shared/info/1190758092
-* https://ankiweb.net/shared/info/2085481698
+* [Spoken Hawaiian Samuel H. Elbert, ʻŌlelo Hawaiʻi Vocabulary ](https://ankiweb.net/shared/info/1190758092)
+* [Duolingo Hawaiian/English](https://ankiweb.net/shared/info/2085481698)
 
 
 ## Dictionaries
