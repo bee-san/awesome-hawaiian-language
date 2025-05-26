@@ -1,0 +1,89 @@
+name: Check Links
+
+on:
+  # Run on push to main when README.md is modified
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'README.md'
+  
+  # Run on pull requests that modify README.md
+  pull_request:
+    paths:
+      - 'README.md'
+  
+  # Run weekly on Sundays at 2 AM UTC
+  schedule:
+    - cron: '0 2 * * 0'
+  
+  # Allow manual triggering
+  workflow_dispatch:
+
+jobs:
+  link-checker:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Check links in README.md
+        uses: lycheeverse/lychee-action@v1
+        with:
+          # Use configuration file and only check README.md
+          args: --config .github/lychee.toml README.md
+          # Fail the action if broken links are found
+          fail: true
+          # Output format
+          format: markdown
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Create Issue on Link Failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = '🔗 Broken Links Found in README.md';
+            const body = `
+            ## Broken Links Detected
+            
+            The automated link checker found broken links in README.md.
+            
+            **Workflow Run:** ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+            
+            Please review and fix the broken links.
+            
+            ---
+            *This issue was automatically created by the link checker workflow.*
+            `;
+            
+            // Check if an issue with this title already exists
+            const existingIssues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: ['broken-links']
+            });
+            
+            const existingIssue = existingIssues.data.find(issue => 
+              issue.title === title
+            );
+            
+            if (!existingIssue) {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: title,
+                body: body,
+                labels: ['broken-links', 'bug']
+              });
+            } else {
+              // Update existing issue with new run info
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: existingIssue.number,
+                body: `🔄 **New broken links detected**\n\n**Workflow Run:** ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}`
+              });
+            } 

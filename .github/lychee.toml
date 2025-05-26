@@ -1,0 +1,46 @@
+# Lychee configuration file for link checking
+
+# Maximum number of concurrent requests
+max_concurrency = 10
+
+# Request timeout in seconds
+timeout = 30
+
+# User agent string
+user_agent = "lychee/awesome-hawaiian-language"
+
+# Accept invalid certificates (some educational sites have issues)
+insecure = false
+
+# Follow redirects
+max_redirects = 5
+
+# Exclude certain URLs that are known to have issues or are not publicly accessible
+exclude = [
+    # Email addresses
+    "mailto:*",
+    # Local file references that won't work in CI
+    "file://*",
+    # Amazon links that often block automated requests
+    "https://www.amazon.com/*",
+    # Some sites that block automated requests
+    "https://aminoapps.com/*",
+    # PDF files in the repo (they exist locally)
+    "pdfs/*"
+]
+
+# Include patterns (check all HTTP/HTTPS links)
+include = [
+    "https://*",
+    "http://*"
+]
+
+# Retry failed requests
+retry_wait_time = 2
+max_retries = 3
+
+# Check fragments/anchors in URLs
+include_fragments = true
+
+# Output verbosity
+verbose = true 
