@@ -138,8 +138,30 @@ Read my [blog post to find out more](skerritt.blog/yomitan-for-hawaiian/)
 # Books
 
 ## Dictionaries
-* [❤️ wehewehe. By far the best online dictionary](https://hilo.hawaii.edu/wehe/)
-* [🐝❤️ Combined Hawaiian Dictionary files. 28,000 entries with files for Kindle, Kobo, Yomitan and other dictionary programs](https://github.com/MitchTalmadge/Hawaiian-Word-List)
+### Applications 
+Dictionaries which are applications you have to use.
+
+* [❤️ wehewehe. By far the best online dictionary.](https://hilo.hawaii.edu/wehe/)
+
+### Open sourced dictionaries
+
+These are dictionaries which exist as files. You can edit them, download them and convert them to any format you want.
+Most of these dictionaries will have:
+* Mobi format to use on e-readers
+* Yomitan format to work with Yomitan
+
+
+* [🐝❤️ Pukui-Elbert-1986, the goto dictionary. wehewehe uses this as its main dictionary](dictionaries/Pukui-Elbert-1986/readme.md)
+* [🐝❤️ Combined Hawaiian Dictionary files.](dictionaries/Combined-Hawaiian-Dictionary/readme.md)
+* [🐝 Andrews-1865](dictionaries/andrews-1865/readme.md)
+* [🐝 emerson 1845](dictionaries/emerson-1845/readme.md)
+* [🐝 Hawaii-place-names](dictionaries/hawaii-place-names/readme.md)
+* see other dicts I converted in dictionaries/ folder.
+
+* [Wiktionary, very very few words and in incubator status](https://incubator.wikimedia.org/w/index.php?title=Wt/haw/Papa_Kinohi&redirectfrom=infopage)
+
+
+#### Books
 * [Hawaiian Dictionary, most widely used paper dictionary](https://www.amazon.com/Hawaiian-Dictionary-Hawaiian-Language-English/dp/1573062456)
 * [A Dictionary of the Hawaiian Language, 1865. Only dictionary of note until the 20th century](https://www.amazon.com/Dictionary-Hawaiian-Language-Lorrin-Andrews/dp/1573062456)
 * [Māmaka Kaio, a compilation of Hawaiian words that have been created, collected, and approved by the Hawaiian Lexicon Committee from 1987 to 2000.](https://www.amazon.com/Maka-Kaio-Compilation-Hawaiian-Language/dp/1573062456)
@@ -160,3 +182,8 @@ This is likely due to the lack of Hawaiian audio with timed subtitles.
 
 ## Text to speech
 There is currently no good TTS model because of the above issue.
+
+# Contributing
+
+You can contribute by:
+* Using PyGlossary to add new formats for the dictionaries in `dictionaries`
