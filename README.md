@@ -6,9 +6,9 @@ Aloha! This is just to keep track of language resources :)
 
 # Call to action
 
-🚨 I need audio and timed soft subtitles of the Hawaiian language 🚨
+🚨 I need digital media of the Hawaiian language 🚨
 
-Preferably video, but just audio is fine too.
+Preferably video with timed subtitles, but books are fine too.
 
 With this I can:
 * Create a frequency dictionary
@@ -148,15 +148,25 @@ Dictionaries which are applications you have to use.
 These are dictionaries which exist as files. You can edit them, download them and convert them to any format you want.
 Most of these dictionaries will have:
 
-I did a lot of work in getting these CSVs and converting them, so hence why my bee appears so often.
+I did a lot of work in getting these CSVs and converting them, so hence why my 🐝 appears so often.
 
-* [🐝❤️ Pukui-Elbert-1986, the goto dictionary. wehewehe uses this as its main dictionary](dictionaries/Pukui-Elbert-1986/readme.md)
-* [🐝❤️ Combined Hawaiian Dictionary files.](dictionaries/Combined-Hawaiian-Dictionary/readme.md)
-* [🐝 Andrews-1865](dictionaries/andrews-1865/readme.md)
-* [🐝 emerson 1845](dictionaries/emerson-1845/readme.md)
-* [🐝 Hawaii-place-names](dictionaries/hawaii-place-names/readme.md)
-* see other dicts I converted in dictionaries/ folder.
+If you want to use Yomitan, I suggest the dictionaries with ❤️ in this order.
 
+* [🐝❤️ Pukui-Elbert-1986, the goto dictionary. wehewehe uses this as its main dictionary](dictionaries/Pukui-Elbert-1986/)
+* [🐝❤️ Combined Hawaiian Dictionary files.](dictionaries/Combined-Hawaiian-Dictionary)
+* [🐝❤️ Hawaii-place-names](dictionaries/hawaii-place-names)
+* [🐝 Andrews-1865](dictionaries/andrews-1865)
+* [🐝 emerson 1845](dictionaries/emerson-1845)
+* [🐝 Hitchcock 1887](dictionaries/hitchcock-1887/)
+* [🐝 Judd-Pukui-Stokes-1943](dictionaries/Judd-Pukui-Stokes-1943/)
+* [🐝 Kent-1986](dictionaries/Kent-1986/)
+* [🐝 Land-Terms-1995](dictionaries/Land-Terms-1995/)
+* [🐝 Māmaka-Kaiao-2003](dictionaries/Māmaka-Kaiao-2003/)
+* [🐝 mīkini-holoi-pā-in-Māmaka-Kaiao-2003](dictionaries/mīkini-holoi-pā-in-Māmaka-Kaiao-2003/)
+* [🐝 mutilate-in-Pukui-Elbert-1986](dictionaries/mutilate-in-Pukui-Elbert-1986/)
+* [🐝 Parker-1922](dictionaries/Parker-1922/)
+* [🐝 Place-Names-of-Hawaiʻi-1974](dictionaries/Place-Names-of-Hawaiʻi-1974/)
+* [🐝 Wehiwehi-Baibala-1872](dictionaries/Wehiwehi-Baibala-1872/)
 * [Wiktionary, very very few words and in incubator status](https://incubator.wikimedia.org/w/index.php?title=Wt/haw/Papa_Kinohi&redirectfrom=infopage)
 
 
