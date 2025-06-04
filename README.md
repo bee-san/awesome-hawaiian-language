@@ -147,9 +147,8 @@ Dictionaries which are applications you have to use.
 
 These are dictionaries which exist as files. You can edit them, download them and convert them to any format you want.
 Most of these dictionaries will have:
-* Mobi format to use on e-readers
-* Yomitan format to work with Yomitan
 
+I did a lot of work in getting these CSVs and converting them, so hence why my bee appears so often.
 
 * [🐝❤️ Pukui-Elbert-1986, the goto dictionary. wehewehe uses this as its main dictionary](dictionaries/Pukui-Elbert-1986/readme.md)
 * [🐝❤️ Combined Hawaiian Dictionary files.](dictionaries/Combined-Hawaiian-Dictionary/readme.md)
