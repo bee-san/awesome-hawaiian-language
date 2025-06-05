@@ -1,4 +1,4 @@
-word	frequency
+word	freq	
 i	322041
 ka	310362
 ke	132437

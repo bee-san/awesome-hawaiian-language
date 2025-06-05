@@ -103,6 +103,9 @@ Read my [blog post to find out more](skerritt.blog/yomitan-for-hawaiian/)
 * [Speak Hawaiian, channel no longer posts](https://www.youtube.com/@speakhawaiian7323)
 * [OiwiTV](https://kanaeokana.net/olelo)
 
+## Movies in Hawaiian
+- [❤️ The Healer Stones of Kapaemahu](https://vimeo.com/685573544/e1be6e6bf9)
+
 ### Subtitles
 
 * Oleoflix - Community subs for Netflix. The extension is currently dead. https://oleloflix.com/#/
@@ -209,7 +212,7 @@ There is currently no good TTS model because of the above issue.
 - [Hawaiian Digital Dictionary Maker](https://github.com/jonthysell/HawDict)
 - [IPA Phonemeizer with support for Hawaiian](https://github.com/neurlang/goruut)
 - [Hawaiian Keyboard support for Windows](https://github.com/jonthysell/HawKeys)
-
+- [OleloTools, LLM finetuned on Hawaiian. Could not find GitHub repo](https://olelotools.com/)
 # Contributing
 
 You can contribute by:
