@@ -192,6 +192,24 @@ This is likely due to the lack of Hawaiian audio with timed subtitles.
 ## Text to speech
 There is currently no good TTS model because of the above issue.
 
+## Analysis of the Hawaiian Language
+
+* [❤️🐝 Hawaiian Corpus, Frequency analysis of Hawaiian. In freq folder you will find a Yomitan frequency dictionary](https://github.com/dohliam/hawaiian-corpus/tree/master)
+* [Hawaiian Newspaper Frequency List before 1914](https://github.com/gbisaga/hawaiian-word-frequency)
+
+### GitHub Repositories
+
+- [espeak-ng, has some Hawaiian TTS support](https://github.com/espeak-ng/espeak-ng)
+- [Hawaiian Pronouncer, rudimentary Hawaiian pronounication project](https://github.com/pdarsh58/Hawaiian-Pronouncer)
+- [Hawaiian Wordle Clone](https://github.com/keoladonaghy/Hulihua)
+- [Google Fonts with Proper Hawaiian Support](https://gist.github.com/ian4uh/177e72d43a9b6f5352a9e38250e5f61f)
+- [Awesome Hawaiian Documentaries](https://github.com/RayBB/awesome-hawaii-documentaries)
+- [Hawaiian Wordlists useful for creating flashcards](https://github.com/jonthysell/HawCards)
+- [Hawaiian Spell Checking Dictionary Maker](https://github.com/jonthysell/HawSpell)
+- [Hawaiian Digital Dictionary Maker](https://github.com/jonthysell/HawDict)
+- [IPA Phonemeizer with support for Hawaiian](https://github.com/neurlang/goruut)
+- [Hawaiian Keyboard support for Windows](https://github.com/jonthysell/HawKeys)
+
 # Contributing
 
 You can contribute by:
