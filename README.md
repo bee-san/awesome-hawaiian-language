@@ -131,6 +131,7 @@ Read my [blog post to find out more](skerritt.blog/yomitan-for-hawaiian/)
 
 * ❤️ [Subreddit Olelo Hawaii](https://www.reddit.com/r/olelohawaii/)
 * ❤️ [Hawaiian Goodness' Discord](https://useduforce.wixsite.com/hawaiiangoodness/discord)
+* [Hawaiian Wikipedia](https://haw.wikipedia.org/wiki/Ka_papa_kinohi)
 * [Duolingo Hawaiian Forums Archive](https://duolingo.hobune.stream/topic/960/1)
 * [Amino App, a forum / blog post site with a Hawaiian community](https://aminoapps.com/c/HawaiianLanguage/home/)
 * [The Sims Online Hawaiian Hangout](https://useduforce.wixsite.com/hawaiiangoodness/post/chat-in-hawaiian-on-the-sims)
