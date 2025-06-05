@@ -147,7 +147,6 @@ Dictionaries which are applications you have to use.
 ### Open sourced dictionaries
 
 These are dictionaries which exist as files. You can edit them, download them and convert them to any format you want.
-Most of these dictionaries will have:
 
 I did a lot of work in getting these CSVs and converting them, so hence why my 🐝 appears so often.
 
