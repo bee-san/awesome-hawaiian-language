@@ -1,6 +1,8 @@
 # awesome-hawaiian-language
 Aloha! This is just to keep track of language resources :)
 
+This repo contains every Hawaiian dictionary in CSV format, with links to many other cool things.
+
 * 🐝 emoji are resources I created or contributed to.
 * ❤️ means I love this resource
 
