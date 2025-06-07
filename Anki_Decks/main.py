@@ -70,9 +70,14 @@ def main():
     
     # Process each word and create notes
     print("Creating notes...")
+    broken_count = 0
     for word in words:
         # Look up definition in dictionary
         definition = dictionary.get(word, "BROKEN")
+        
+        # Track broken cards
+        if definition == "BROKEN":
+            broken_count += 1
         
         # Create note with only Word and Definition filled
         note = genanki.Note(
@@ -95,6 +100,7 @@ def main():
     package.write_to_file('hawaiian_top_1500.apkg')
     
     print(f"Successfully created hawaiian_top_1500.apkg with {len(words)} cards")
+    print(f"Number of broken cards (missing definitions): {broken_count}")
 
 if __name__ == "__main__":
     main()
