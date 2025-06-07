@@ -25,6 +25,24 @@ def load_dictionary(filename):
                 dictionary[word] = definition
     return dictionary
 
+def load_multiple_dictionaries(filenames):
+    """Load multiple dictionary files and merge them into one dictionary."""
+    merged_dictionary = {}
+    
+    for filename in filenames:
+        print(f"Loading dictionary: {filename}")
+        try:
+            dictionary = load_dictionary(filename)
+            # Merge dictionaries, later ones override earlier ones for duplicate keys
+            merged_dictionary.update(dictionary)
+            print(f"  Added {len(dictionary)} entries")
+        except FileNotFoundError:
+            print(f"  Warning: File {filename} not found, skipping")
+        except Exception as e:
+            print(f"  Error loading {filename}: {e}")
+    
+    return merged_dictionary
+
 def create_hawaiian_model():
     """Create the Hawaiian note model with all required fields."""
     model_id = random.randrange(1 << 30, 1 << 31)
@@ -56,10 +74,19 @@ def main():
     words = load_frequency_list('freqlist_haw_inverse.txt')
     print(f"Loaded {len(words)} words from frequency list")
     
-    # Load the dictionary
-    print("Loading dictionary...")
-    dictionary = load_dictionary('Pukui-Elbert-1986-Deduped.csv')
-    print(f"Loaded {len(dictionary)} entries from dictionary")
+    # Define dictionary files to load (add more files here as needed)
+    dictionary_files = [
+        'Pukui-Elbert-1986-Deduped.csv',
+        # Add more dictionary files here:
+        # 'Andrews-1865.csv',
+        # 'Māmaka-Kaiao-2003+.csv',
+        # 'Parker-1922.csv',
+    ]
+    
+    # Load and merge all dictionaries
+    print("Loading dictionaries...")
+    dictionary = load_multiple_dictionaries(dictionary_files)
+    print(f"Total merged dictionary entries: {len(dictionary)}")
     
     # Create the model
     hawaiian_model = create_hawaiian_model()
