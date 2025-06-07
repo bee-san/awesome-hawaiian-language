@@ -77,10 +77,7 @@ def main():
     # Define dictionary files to load (add more files here as needed)
     dictionary_files = [
         'Pukui-Elbert-1986-Deduped.csv',
-        # Add more dictionary files here:
-        # 'Andrews-1865.csv',
-        # 'Māmaka-Kaiao-2003+.csv',
-        # 'Parker-1922.csv',
+        'Combined-Hawaiian-Dictionary-2020-Mitch-Cleaned.csv',
     ]
     
     # Load and merge all dictionaries
